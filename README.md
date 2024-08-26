@@ -1,1 +1,1 @@
-#tecnicas
+tecnicas
